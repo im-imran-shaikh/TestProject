@@ -11,7 +11,7 @@ public class BiFunctionTest
 	public static void main(String[] args)
 	{
 		System.out.println(isTwoNumberEqual.apply(1, 10));
-
+		System.out.println("Adding this");
 	}
 
 }
